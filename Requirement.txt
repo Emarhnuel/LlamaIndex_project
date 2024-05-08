@@ -1,0 +1,7 @@
+llama-index
+Huggingface
+langchain
+transformers 
+bitsandbytes
+pypdf
+python-dotenv
